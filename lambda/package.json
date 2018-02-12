@@ -1,0 +1,9 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "Back-end lambda functions",
+  "scripts": {
+  },
+  "author": "Jonathan Noe",
+  "license": "MIT"
+}
