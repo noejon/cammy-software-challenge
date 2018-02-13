@@ -2,7 +2,9 @@
   "name": "lambda",
   "version": "1.0.0",
   "description": "Back-end lambda functions",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha **/**.test.js"
+  },
   "author": "Jonathan Noe",
   "license": "MIT",
   "devDependencies": {

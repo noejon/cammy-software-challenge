@@ -23,3 +23,7 @@ Create a service (FE/BE) that accepts customer feedback and sends e-mail to both
         Give the role a name (LambdaCammy in our example)
         Create the role (add images)
         The role is added to your role list
+
+Run unit tests for DynamoDB https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html
+Download the Asia Pacific (Singapore) Region .zip file https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html
+java -jar DynamoDBLocal.jar
