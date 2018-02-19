@@ -27,3 +27,7 @@ Create a service (FE/BE) that accepts customer feedback and sends e-mail to both
 Run unit tests for DynamoDB https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html
 Download the Asia Pacific (Singapore) Region .zip file https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html
 java -jar DynamoDBLocal.jar
+
+## DynamoDB
+
+In your AWS Console, create a table.
